@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Habib El Deek</h1>
+<h1 align="center">Hi 👋, I'm Habib Al Deek</h1>
 <h3 align="center">Computer scientist who appreciates learning about and developing new technologies.Highly motivated, eager to learn more, and constantly looking to get better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-el-deek&label=Profile%20views&color=0e75b6&style=flat" alt="habib-el-deek" /> </p>
